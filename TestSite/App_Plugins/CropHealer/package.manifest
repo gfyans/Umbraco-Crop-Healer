@@ -1,0 +1,9 @@
+﻿{
+	javascript: [
+		'~/App_Plugins/CropHealer/CropHealerDashboardController.js',
+		'~/App_Plugins/CropHealer/CropHealerDashboardService.js'
+	],
+	css: [
+		'~/App_Plugins/CropHealer/CropHealerDashboard.css'
+	]
+}
